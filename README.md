@@ -47,5 +47,4 @@ This repository contains **75 must-solve DSA questions** that cover all **import
 ## 📖 Resources
 
 - [LeetCode](https://leetcode.com/)  
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)  
-- [NeetCode Guide](https://neetcode.io/)  
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
