@@ -43,20 +43,9 @@ This repository contains **75 must-solve DSA questions** that cover all **import
 
 📌 **Full problem list is available in the repository!**
 
-## 📈 Progress Tracker
-
-- ✅ **Completed**: ![Progress](https://img.shields.io/badge/Completed-40%25-green)
-- ⏳ **In Progress**: ![Progress](https://img.shields.io/badge/In%20Progress-30%25-orange)
-- ❌ **Remaining**: ![Progress](https://img.shields.io/badge/Remaining-30%25-red)
 
 ## 📖 Resources
 
 - [LeetCode](https://leetcode.com/)  
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)  
 - [NeetCode Guide](https://neetcode.io/)  
-
-💡 **Tip:** Stay consistent and track your progress to master DSA! 🚀
-
----
-
-This README is **simple, effective, and structured** to make navigation easy while keeping it **clean and concise**. Let me know if you want any modifications! 🚀
