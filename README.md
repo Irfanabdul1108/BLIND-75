@@ -6,16 +6,25 @@ This repository contains **75 must-solve DSA questions** that cover all **import
 
 ## 📚 Topics Covered
 
-- **Array & Hashing**
+- **Arrays**
+- **Strings**
 - **Two Pointers**
 - **Sliding Window**
+- **Matrix**
+- **Searching and Sorting**
+- **Hashing**
+- **Linked Lists**
 - **Stack & Queue**
-- **Binary Search**
-- **Linked List**
-- **Trees & Graphs**
+- **Recursion and Backtracking**
+- **Trees**
+- **Graphs**
+- **Algorithms**
+- **Heap**
 - **Dynamic Programming**
-- **Backtracking**
-- **Math & Bit Manipulation**
+- **Greedy Algorithms**
+- **Intervals**
+- **Tries**
+- **Bit Manipulation**
 
 ## 📑 Problem List
 
