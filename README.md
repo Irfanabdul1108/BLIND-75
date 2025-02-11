@@ -30,8 +30,8 @@ This repository contains **75 must-solve DSA questions** that cover all **import
 
 | #  | Problem Title                                     | Link 📎                              | Concept 🔥              |
 |----|--------------------------------------------------|--------------------------------------|--------------------------|
-| 1  | Two Sum                                         | [LeetCode](https://leetcode.com/problems/two-sum/) | Arrays, Hashing          |
-| 2  | Best Time to Buy and Sell Stock                | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Sliding Window           |
+| 1  | Two Sum                                         | [LeetCode](https://leetcode.com/problems/two-sum/) | Arrays          |
+| 2  | Maximum-Depth-Of-Binary-Tree                | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |  Trees           |
 | 3  | Valid Parentheses                               | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Stack                    |
 | 4  | Merge Two Sorted Lists                         | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) | Linked List              |
 | 5  | Maximum Subarray                               | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | Dynamic Programming      |
