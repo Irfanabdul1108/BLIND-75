@@ -32,7 +32,7 @@ This repository contains **75 must-solve DSA questions** that cover all **import
 |----|--------------------------------------------------|--------------------------------------|--------------------------|
 | 1  | Two Sum                                         | [LeetCode](https://leetcode.com/problems/two-sum/) | Arrays          |
 | 2  | Maximum Depth of a Binary Tree                | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |  Trees           |
-| 3  | Valid Parentheses                               | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Stack                    |
+| 3  | Valid Parentheses                               | [LeetCode](https://leetcode.com/problems/valid-palindrome/) | Two pointers                    |
 | 4  | Merge Two Sorted Lists                         | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) | Linked List              |
 | 5  | Maximum Subarray                               | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | Dynamic Programming      |
 | 6  | Search in Rotated Sorted Array                | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Binary Search            |
