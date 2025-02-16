@@ -34,7 +34,7 @@ This repository contains **75 must-solve DSA questions** that cover all **import
 | 2  | Maximum Depth of a Binary Tree                | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |  Trees           |
 | 3  | Valid Palindrome                               | [LeetCode](https://leetcode.com/problems/valid-palindrome/) | Two pointers                    |
 | 4  | Contains Duplicate                         | [LeetCode](https://leetcode.com/problems/contains-duplicate/) | Hashing              |
-| 5  | Maximum Subarray                               | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | Dynamic Programming      |
+| 5  | No of 1 bits                             | [LeetCode](https://leetcode.com/problems/number-of-1-bits/) | Bit Manipulation|
 | 6  | Search in Rotated Sorted Array                | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Binary Search            |
 | 7  | Lowest Common Ancestor of a Binary Tree       | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Trees                    |
 | 8  | Course Schedule                               | [LeetCode](https://leetcode.com/problems/course-schedule/) | Graphs, Topological Sort |
