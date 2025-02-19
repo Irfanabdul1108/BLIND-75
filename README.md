@@ -36,7 +36,7 @@ This repository contains **75 must-solve DSA questions** that cover all **import
 | 4  | Contains Duplicate                         | [LeetCode](https://leetcode.com/problems/contains-duplicate/) | Hashing              |
 | 5  | No of 1 bits                             | [LeetCode](https://leetcode.com/problems/number-of-1-bits/) | Bit Manipulation|
 | 6  | Group anagrams                | [LeetCode](https://leetcode.com/problems/group-anagrams/) |  Strings            |
-| 7  | Lowest Common Ancestor of a Binary Tree       | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Trees                    |
+| 7  | Same Tree      | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Trees                    |
 | 8  | Course Schedule                               | [LeetCode](https://leetcode.com/problems/course-schedule/) | Graphs, Topological Sort |
 | 9  | Combination Sum                               | [LeetCode](https://leetcode.com/problems/combination-sum/) | Backtracking             |
 | 10 | Number of 1 Bits                              | [LeetCode](https://leetcode.com/problems/number-of-1-bits/) | Bit Manipulation         |
