@@ -39,8 +39,7 @@ This repository contains **75 must-solve DSA questions** that cover all **import
 | 7  | Same Tree      | [LeetCode](https://leetcode.com/problems/same-tree/) | Trees                    |
 | 8  | Invert BinaryTree                               | [LeetCode](https://leetcode.com/problems/invert-binary-tree/) | Graphs|
 | 9  | Combination Sum                               | [LeetCode](https://leetcode.com/problems/combination-sum/) | Backtracking             |
-| 10 | Number of 1 Bits                              | [LeetCode](https://leetcode.com/problems/number-of-1-bits/) | Bit Manipulation         |
-| 11 | Valid anagram                              | [LeetCode](https://leetcode.com/problems/valid-anagram/) | Strings         |
+| 10 | Valid anagram                              | [LeetCode](https://leetcode.com/problems/valid-anagram/) | Strings         |
 
 📌 **Full problem list is available in the repository!**
 
