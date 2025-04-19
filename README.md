@@ -38,8 +38,7 @@ This repository contains **75 must-solve DSA questions** that cover all **import
 | 6  | Group anagrams                | [LeetCode](https://leetcode.com/problems/group-anagrams/) |  Strings            |
 | 7  | Same Tree      | [LeetCode](https://leetcode.com/problems/same-tree/) | Trees                    |
 | 8  | Invert BinaryTree                               | [LeetCode](https://leetcode.com/problems/invert-binary-tree/) | Graphs|
-| 9  | Combination Sum                               | [LeetCode](https://leetcode.com/problems/combination-sum/) | Backtracking             |
-| 10 | Valid anagram                              | [LeetCode](https://leetcode.com/problems/valid-anagram/) | Strings         |
+| 9 | Valid anagram                              | [LeetCode](https://leetcode.com/problems/valid-anagram/) | Strings         |
 
 📌 **Full problem list is available in the repository!**
 
